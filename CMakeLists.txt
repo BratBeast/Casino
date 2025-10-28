@@ -20,7 +20,7 @@ set(PROJECT_UI_FILES
 #файли заголовків (.h)
 set(PROJECT_HEADERS
         mainwindow.h
-        #IGame.h
+        IGame.h
         #DiceGame.h
         #SlotsGame.h
         #PistolRouletteGame.h
